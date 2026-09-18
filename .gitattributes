@@ -1,0 +1,9 @@
+# Configuration for git attributes
+*.png binary
+
+src/**/*.tsx linguist-detectable
+*.map linguist-generated
+
+*.html linguist-vendored
+*.woff2 binary
+# eof 3342cf5e
