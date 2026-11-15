@@ -1,0 +1,9 @@
+.pnpm-store/
+*.log
+node_modules/
+yarn-error.log*
+npm-debug.log*
+build/
+.DS_Store
+coverage/
+dist/
